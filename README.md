@@ -2,11 +2,11 @@
 🔭 I’m currently working on UART & Pipeline Processor<br>👯 I’m looking to collaborate on an embedded system project.<br>🌱 I’m currently learning Verilog, SystemVerilog, and UVM<br>💬 Ask me about Computer Architecture, Operating Systems, and Verilog
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisekh-barman/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](nkedin.com/in/abhisekh-barman-4b5753199/?profileId=ACoAAC6QEAkBJtz1xE4JQ6CpOjCUVh7yPr_-vK4)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisekhbarman688@gmail.com)
 
 # 💻 Tech Stack:
-![Verilog](https://www.svgrepo.com/show/374163/verilog.svg) 
+![Verilog]() 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
