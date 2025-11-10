@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](nkedin.com/in/abhisekh-barman-4b5753199/?profileId=ACoAAC6QEAkBJtz1xE4JQ6CpOjCUVh7yPr_-vK4)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisekhbarman688@gmail.com)
-
+ 
 # 💻 Tech Stack:
 ![Verilog](https://img.shields.io/badge/Verilog-%23E34F26.svg?style=for-the-badge&logo=verilog&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
